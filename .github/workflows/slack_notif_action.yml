@@ -1,0 +1,48 @@
+# You can remove this action file if you dont want to add github actions to your repo
+
+name: Test_Action_Name ## Replace it with your own action name
+on: push
+jobs:
+  job1:
+    name: Job 1 here ## Add your jobs steps here
+    runs-on: ubuntu-latest 
+    steps:
+      - name: define job steps
+        run: |
+          echo Job1 done
+  
+  # Add all your jobs before the slack job
+
+  # Will send notification when the build will get succeeded
+  status:
+    name: Notify build status
+    needs: job1  ## add the name of the last job here
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+    if: always()
+    steps:
+      - uses: technote-space/workflow-conclusion-action@v1
+
+      # Will send notification when the build will get succeeded
+      - name: Check for success
+        if: env.WORKFLOW_CONCLUSION != 'failure'
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        uses: voxmedia/github-action-slack-notify-build@v1
+        with:
+          # Updates existing message from the first step
+          channel: build-notifs
+          status: SUCCESS
+          color: good
+      
+      # Will send notification when the build will get failed
+      - name: Check for fail
+        if: env.WORKFLOW_CONCLUSION =='failure'
+        env:
+          SLACK_BOT_TOKEN: ${{ secrets.SLACK_BOT_TOKEN }}
+        uses: voxmedia/github-action-slack-notify-build@v1
+        with:
+          channel: build-notifs
+          status: FAILED
+          color: danger
