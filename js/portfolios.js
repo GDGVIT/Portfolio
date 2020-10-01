@@ -10,7 +10,7 @@ $(document).ready(function () {
     // Scroll Clicks
     $("#down-arrow").click(function () {
         $('html, body').animate({
-            scrollTop: $("#our-work-scroll").offset().top
+            scrollTop: $("#our-portfolios-scroll").offset().top
         }, 900);
     })
 
@@ -45,7 +45,7 @@ $(document).ready(function () {
         $('.main-menu').fadeOut(100);
     })
 
-    $(window).on('scroll', function () {
+    $("#main").on('scroll', function () {
 
         if ($(this).scrollTop() > 0) {
             if (!$('.navbar').hasClass('navbar-scrolled')) {
@@ -57,6 +57,8 @@ $(document).ready(function () {
             }
         }
     });
+
+    $('html').css('overflow-x', 'initial');
 })
 
 var toggleDark = function () {
