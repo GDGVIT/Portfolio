@@ -84,7 +84,7 @@
 - []()
 
 ## S
-- []()
+- [Somesh Mishra](https://someshium.me)
 
 ## T
 - [Tanut Leelaparsert](https://tanut2539.github.io/portfolio)
