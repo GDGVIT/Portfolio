@@ -60,7 +60,7 @@
 - []()
 
 ## K
-- []()
+- [Krati Agarwal](https://agarkra.github.io/kratiagarwal.github.io/)
 
 ## L
 - []()
