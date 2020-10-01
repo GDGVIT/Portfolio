@@ -1,39 +1,24 @@
 [
     {
         "name": "Akshat Gupta",
-        "link": "https://www.akshatvg.com",
-        "image": "https://i.ibb.co/hVLq2ny/akshatvg.png"
+        "link": "https://www.akshatvg.com"
     },
     {
         "name": "Amogh Lele",
-        "link": "https://sphericalkat.dev",
-        "image": "https://i.ibb.co/NKBt1NR/amogh.png"
+        "link": "https://sphericalkat.dev"
     },
     {
         "name": "Ashutosh Kaushik",
-        "link": "https://ashdarkfold.github.io",
-        "image": "https://i.ibb.co/tbsBY1G/ashutosh.png"
+        "link": "https://ashdarkfold.github.io"
     },
     {
         "name": "Muskan Rastogi",
-        "link": "https://muskanrastogi1.github.io",
-        "image": "https://i.ibb.co/SyX7Sp1/muskan.png"
+        "link": "https://muskanrastogi1.github.io"
     },
     {
         "name": "Naynika Wason",
-        "link": "https://www.naynikawason.tech",
-        "image": "https://i.ibb.co/ZMCbWRW/naynika.png"
-    },
-    {
-        "name": "Angad Sharma",
-        "link": "https://loadbalancer.tech",
-        "image": "https://i.ibb.co/vJfZ9Jj/angad.png"
-    },
-    {
-        "name": "Tanut Leelaparsert",
-        "link": "https://tanut2539.github.io/portfolio",
-        "image": "https://i.ibb.co/RTh56dk/tanut.png"
-    },
+        "link": "https://www.naynikawason.tech"
+    }
     {
         "name": "Muhammad Haseeb",
         "link": "https://mrhaseeb.vercel.app",
