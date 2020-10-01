@@ -853,3 +853,10 @@ iframe {
 #main {
     overflow-y: hidden;
 }
+
+/* Text Decoration */
+.text-dec{
+    text-decoration-color: black;
+    text-decoration: underline;
+    font-size: 20px;
+}
