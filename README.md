@@ -28,6 +28,7 @@
 ## A
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Amogh Lele](https://sphericalkat.dev)
+- [Angad Sharma](https://loadbalancer.tech)
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
 
 ## B
