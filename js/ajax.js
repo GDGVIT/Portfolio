@@ -18,7 +18,7 @@ function loadSites() {
                         <a href="${obj[i].link}" class="iframe-anchor" target="_blank">
                         <div class="image">
                         <h2>${obj[i].name}</h2>
-                        <iframe src="${obj[i].link}" frameborder="0" height="300px" width="300px">
+                        <iframe src="${obj[i].link}" frameborder="0" height="310px" width="310px">
                         </iframe>
                         </div>
                         </a>`)
@@ -27,7 +27,7 @@ function loadSites() {
                         <a href="${obj[i].link}" class="iframe-anchor" target="_blank">
                         <div class="image">
                         <h2>${obj[i].name}</h2>
-                        <iframe src="${obj[i].link}" frameborder="0" height="300px" width="300px">
+                        <iframe src="${obj[i].link}" frameborder="0" height="310px" width="310px">
                         </iframe>
                         </div>
                         </a>`)
