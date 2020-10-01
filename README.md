@@ -42,7 +42,7 @@
 - []()
 
 ## E
-- []()
+- [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
 - []()
