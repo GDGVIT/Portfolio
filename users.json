@@ -1,5 +1,4 @@
-[
-    {
+[{
         "name": "Akshat Gupta",
         "link": "https://www.akshatvg.com",
         "image": "https://i.ibb.co/hVLq2ny/akshatvg.png"
@@ -33,5 +32,11 @@
         "name": "Tanut Leelaparsert",
         "link": "https://tanut2539.github.io/portfolio",
         "image": "https://i.ibb.co/RTh56dk/tanut.png"
+    },
+
+    {
+        "name": "Gaurav Saha",
+        "link": "https://gauravsaha-97.github.io/",
+        "image": "https://i.ibb.co/yXDdrbF/IMG-5itfo3.jpg"
     }
 ]
