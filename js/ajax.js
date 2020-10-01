@@ -15,14 +15,16 @@ function loadSites() {
                 for (var i = 0; i < obj.length; i++) {
                     if (i === 0) {
                         $('#links').append(`
-                        <p class="text-left">${obj[i].name}</p>
+                         <p class="text-center text-left">${obj[i].name}</p>
                         <a href="${obj[i].link}" class="image" target="_blank">
+                        <h2 class="text-center bs-text">${obj[i].name}</h2>
                         <img src="${obj[i].image}" alt="${obj[i].name}" class="img">
                         </a>`)
                     } else {
                         $('#links').append(`
-                        <p class="text-left">${obj[i].name}</p>
+                         <p class="text-center text-left">${obj[i].name}</p>
                         <a href="${obj[i].link}" class="image" target="_blank">
+                        <h2 class="text-center bs-text">${obj[i].name}</h2>
                         <img src="${obj[i].image}" alt="${obj[i].name}" class="img">
                         </a>`)
                     }

@@ -99,6 +99,16 @@ p {
     .text-left {
         display: none;
     }
+
+    .bs-text {
+       margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width:780px) {
+    .bs-text {
+        display: none;
+    }
 }
 
 .extra-break {
