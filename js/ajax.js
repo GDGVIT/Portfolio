@@ -15,21 +15,15 @@ function loadSites() {
                 for (var i = 0; i < obj.length; i++) {
                     if (i === 0) {
                         $('#links').append(`
-                        <a href="${obj[i].link}" class="iframe-anchor" target="_blank">
-                        <div class="image">
-                        <h2>${obj[i].name}</h2>
-                        <iframe src="${obj[i].link}" frameborder="0" height="310px" width="310px">
-                        </iframe>
-                        </div>
+                        <p class="text-left">${obj[i].name}</p>
+                        <a href="${obj[i].link}" class="image" target="_blank">
+                        <img src="${obj[i].image}" alt="${obj[i].name}" class="img">
                         </a>`)
                     } else {
                         $('#links').append(`
-                        <a href="${obj[i].link}" class="iframe-anchor" target="_blank">
-                        <div class="image">
-                        <h2>${obj[i].name}</h2>
-                        <iframe src="${obj[i].link}" frameborder="0" height="310px" width="310px">
-                        </iframe>
-                        </div>
+                        <p class="text-left">${obj[i].name}</p>
+                        <a href="${obj[i].link}" class="image" target="_blank">
+                        <img src="${obj[i].image}" alt="${obj[i].name}" class="img">
                         </a>`)
                     }
                 }
