@@ -6,7 +6,7 @@
     {
         "name": "Amogh Lele",
         "link": "https://sphericalkat.dev"
-    },
+    },;
     {
         "name": "Ashutosh Kaushik",
         "link": "https://ashdarkfold.github.io"
@@ -18,5 +18,9 @@
     {
         "name": "Naynika Wason",
         "link": "https://www.naynikawason.tech"
+    },
+    {
+        "name" :"Allen Y"
+         "link" :" https://alleny244.github.io/Portfolio/"
     }
 ]
