@@ -809,14 +809,21 @@ input:focus {
 html,
 body {
     height: 100vh;
+
 }
 
 /* iframe */
 iframe {
     z-index: -5;
     pointer-events: none;
+    overflow:hidden;
 }
 
-.iframe-overlay{
+.iframe-overlay {
     cursor: pointer;
+}
+
+/* Text Center */
+.text-center {
+    text-align: center;
 }
