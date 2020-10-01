@@ -40,7 +40,7 @@
 - []()
 
 ## D
-- []()
+- [Deepak Nahar](http://iamdn7.co)
 
 ## E
 - []()
