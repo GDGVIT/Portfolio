@@ -16,7 +16,8 @@
 
 ## Instructions to add your portfolio
 1. Open README.md and add your name and portfolio link in the alphabetical order.
-2. Open [users.json](./users.json) and add your name and portfolio link at the bottom.
+2. Create an account on [imgbb.com](https://imgbb.com/) and generate a link for your preview image (you can use any other hosting for the image too).
+3. Open [users.json](./users.json) and add your name, portfolio link and preview image link at the bottom.
 
 ---
 
@@ -28,6 +29,7 @@
 ## A
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Amogh Lele](https://sphericalkat.dev)
+- [Angad Sharma](https://loadbalancer.tech)
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
 
 ## B
@@ -85,7 +87,7 @@
 - []()
 
 ## T
-- []()
+- [Tanut Leelaparsert](https://tanut2539.github.io/portfolio)
 
 ## U
 - []()
