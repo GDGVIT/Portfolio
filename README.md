@@ -28,6 +28,7 @@
 ## A
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Amogh Lele](https://sphericalkat.dev)
+- [Ananya Ganesh](https://ananyaganesh.tech)
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
 
 ## B
