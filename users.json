@@ -1,30 +1,37 @@
 [
     {
         "name": "Akshat Gupta",
-        "link": "https://www.akshatvg.com"
+        "link": "https://www.akshatvg.com",
+        "image": "https://i.ibb.co/hVLq2ny/akshatvg.png"
     },
     {
         "name": "Amogh Lele",
-        "link": "https://sphericalkat.dev"
+        "link": "https://sphericalkat.dev",
+        "image": "https://i.ibb.co/NKBt1NR/amogh.png"
     },
     {
         "name": "Ashutosh Kaushik",
-        "link": "https://ashdarkfold.github.io"
+        "link": "https://ashdarkfold.github.io",
+        "image": "https://i.ibb.co/tbsBY1G/ashutosh.png"
     },
     {
         "name": "Muskan Rastogi",
-        "link": "https://muskanrastogi1.github.io"
+        "link": "https://muskanrastogi1.github.io",
+        "image": "https://i.ibb.co/SyX7Sp1/muskan.png"
     },
     {
         "name": "Naynika Wason",
-        "link": "https://www.naynikawason.tech"
+        "link": "https://www.naynikawason.tech",
+        "image": "https://i.ibb.co/ZMCbWRW/naynika.png"
     },
     {
         "name": "Angad Sharma",
-        "link": "https://loadbalancer.tech"
+        "link": "https://loadbalancer.tech",
+        "image": "https://i.ibb.co/vJfZ9Jj/angad.png"
     },
     {
         "name": "Tanut Leelaparsert",
-        "link": "https://tanut2539.github.io/portfolio"
+        "link": "https://tanut2539.github.io/portfolio",
+        "image": "https://i.ibb.co/RTh56dk/tanut.png"
     }
 ]
