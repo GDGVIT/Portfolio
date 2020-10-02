@@ -43,13 +43,13 @@
 - [Deepak Nahar](http://iamdn7.co)
 
 ## E
-- []()
+- [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
 - []()
 
 ## G
-- []()
+- [Gurnehmat Kaur Dhindsa](https://gurnehmat.netlify.app/)
 
 ## H
 - []()

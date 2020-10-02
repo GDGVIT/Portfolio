@@ -15,6 +15,11 @@
         "image": "https://i.ibb.co/tbsBY1G/ashutosh.png"
     },
     {
+        "name": "Ekaansh Arora",
+        "link": "https://ekaansharora.github.io/",
+        "image": "https://i.ibb.co/tBMF3h7/Capture.jpg"
+    },
+    {
         "name": "Deepak Nahar",
         "link": "http://iamdn7.co/",
         "image": "https://i.ibb.co/Bsw9k6n/image.png"
@@ -43,5 +48,15 @@
         "name": "Kamlesh Patil",
         "link": "https://neon-k9.github.io/",
         "image": "https://ibb.co/XZffG3c"
+    },
+    {
+        "name": "Ananya Ganesh",
+        "link": "https://ananyaganesh.tech",
+        "image": "https://i.ibb.co/n1yV4ky/ananya.png"
+    },
+    {
+        "name": "Gurnehmat Kaur Dhindsa",
+        "link": "https://gurnehmat.netlify.app/",
+        "image": "https://i.ibb.co/fxNnzHL/screencapture-127-0-0-1-5501-2020-10-01-23-26-22.png"
     }
 ]
