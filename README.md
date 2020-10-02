@@ -49,7 +49,7 @@
 - []()
 
 ## G
-- []()
+- [Gurnehmat Kaur Dhindsa](https://gurnehmat.netlify.app/)
 
 ## H
 - []()
