@@ -43,7 +43,7 @@
 - [Deepak Nahar](http://iamdn7.co)
 
 ## E
-- []()
+- [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
 - []()
