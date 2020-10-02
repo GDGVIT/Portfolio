@@ -15,6 +15,11 @@
         "image": "https://i.ibb.co/tbsBY1G/ashutosh.png"
     },
     {
+        "name": "Deepak Nahar",
+        "link": "http://iamdn7.co/",
+        "image": "https://i.ibb.co/Bsw9k6n/image.png"
+    },
+    {
         "name": "Muskan Rastogi",
         "link": "https://muskanrastogi1.github.io",
         "image": "https://i.ibb.co/SyX7Sp1/muskan.png"
@@ -38,5 +43,10 @@
         "name": "Ananya Ganesh",
         "link": "https://ananyaganesh.tech",
         "image": "https://i.ibb.co/n1yV4ky/ananya.png"
+    },
+    {
+        "name": "Gurnehmat Kaur Dhindsa",
+        "link": "https://gurnehmat.netlify.app/",
+        "image": "https://i.ibb.co/fxNnzHL/screencapture-127-0-0-1-5501-2020-10-01-23-26-22.png"
     }
 ]
