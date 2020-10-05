@@ -64,6 +64,7 @@
 
 ## K
 - [Kamlesh Patil](https://neon-k9.netlify.app/)
+- [Krati Agarwal](https://agarkra.github.io/kratiagarwal.github.io/)
 
 ## L
 - []()
