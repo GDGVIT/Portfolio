@@ -91,6 +91,26 @@ p {
     text-align: center;
 }
 
+.text-left {
+    text-align: left;
+}
+
+@media only screen and (min-width:780px) {
+    .text-left {
+        display: none;
+    }
+
+    .bs-text {
+       margin-top: 50px;
+    }
+}
+
+@media only screen and (max-width:780px) {
+    .bs-text {
+        display: none;
+    }
+}
+
 .extra-break {
     padding-top: 20px;
     padding-bottom: 30px;
@@ -113,6 +133,7 @@ body {
     width: 100%;
     background: #ffffff;
     z-index: 98;
+    overflow-y: hidden;
 }
 
 .success-message {
@@ -216,14 +237,14 @@ body {
 }
 
 .navbar-dsc-logo {
-    height: 40px;
-    width: 140px;
+    height: 20px;
+    /* width: 140px; */
     float: left;
-    padding-left: 10vw;
+    /* padding-left: 10vw; */
     display: none;
-    position: relative;
-    top: 50%;
-    transform: translateY(-50%);
+    /* position: relative; */
+    /* top: 50%; */
+    /* transform: translateY(-50%); */
     cursor: pointer;
 }
 
@@ -369,6 +390,7 @@ body {
     position: relative;
     top: 50vh;
     transform: translateY(-50%);
+    overflow-y: hidden;
 }
 
 .main-down-arrow {
@@ -387,6 +409,7 @@ body {
     padding-top: 15vh;
     background: url('../images/after-landing-feed.svg') center center fixed no-repeat;
     background-size: cover;
+    overflow-y: hidden;
     /* opacity:0.2; */
 }
 
@@ -394,15 +417,18 @@ body {
     background: url('../images/after-landing-dark-feed.svg') center center fixed no-repeat;
     background-size: cover;
     /* opacity:0.2; */
+    overflow-y: hidden;
 }
 
 .dark-light-toggle {
     cursor: pointer;
     text-decoration: underline;
+    overflow-y: hidden;
 }
 
 .container-main-last {
     padding-bottom: 15vh;
+    overflow-y: hidden;
 }
 
 .icons {
@@ -809,14 +835,28 @@ input:focus {
 html,
 body {
     height: 100vh;
+    overflow-x: hidden;
 }
 
 /* iframe */
 iframe {
     z-index: -5;
     pointer-events: none;
+    overflow: hidden;
 }
 
-.iframe-overlay{
+.iframe-overlay {
     cursor: pointer;
+}
+
+/* Main */
+#main {
+    overflow-y: hidden;
+}
+
+/* Text Decoration */
+.text-dec{
+    text-decoration-color: black;
+    text-decoration: underline;
+    font-size: 20px;
 }
