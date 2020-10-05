@@ -30,6 +30,7 @@
 ## A
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Amogh Lele](https://sphericalkat.dev)
+- [Ananya Ganesh](https://ananyaganesh.tech)
 - [Angad Sharma](https://loadbalancer.tech)
 - [Anurag Verma](https://whoanuragverma.github.io)
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
@@ -50,7 +51,7 @@
 - []()
 
 ## G
-- [Gurnehmat Kaur Dhindsa](https://gurnehmat.netlify.app/)
+- [Gaurav Saha](https://gauravsaha-97.github.io/)
 
 ## H
 - []()
@@ -63,6 +64,7 @@
 
 ## K
 - [Kamlesh Patil](https://neon-k9.netlify.app/)
+- [Krati Agarwal](https://agarkra.github.io/kratiagarwal.github.io/)
 
 ## L
 - []()
@@ -86,7 +88,7 @@
 - []()
 
 ## S
-- []()
+- [Somesh Mishra](https://someshium.me)
 
 ## T
 - [Tanut Leelaparsert](https://tanut2539.github.io/portfolio)
