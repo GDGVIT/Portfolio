@@ -8,6 +8,7 @@
 
 ---
 [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://portfolio.dscvit.com)
+[![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-red)](https://dsc.community.dev/vellore-institute-of-technology/)
 
 
 ## Functionalities
@@ -16,7 +17,7 @@
 
 ## Instructions to add your portfolio
 1. Open README.md and add your name and portfolio link in the alphabetical order.
-2. Create an account on [imgbb.com](https://imgbb.com/) and generate a link for your preview image (you can use any other hosting for the image too).
+2. Create an account on [imgbb.com](https://imgbb.com/) and generate a link for your website's preview image (you can use any other hosting for the image too).
 3. Open [users.json](./users.json) and add your name, portfolio link and preview image link at the bottom.
 
 ---
@@ -29,7 +30,9 @@
 ## A
 - [Akshat Gupta](https://www.akshatvg.com)
 - [Amogh Lele](https://sphericalkat.dev)
+- [Ananya Ganesh](https://ananyaganesh.tech)
 - [Angad Sharma](https://loadbalancer.tech)
+- [Anurag Verma](https://whoanuragverma.github.io)
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
 
 ## B
@@ -39,16 +42,16 @@
 - []()
 
 ## D
-- []()
+- [Deepak Nahar](http://iamdn7.co)
 
 ## E
-- []()
+- [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
 - []()
 
 ## G
-- []()
+- [Gaurav Saha](https://gauravsaha-97.github.io/)
 
 ## H
 - []()
@@ -60,6 +63,7 @@
 - []()
 
 ## K
+- [Kamlesh Patil](https://neon-k9.netlify.app/)
 - [Krati Agarwal](https://agarkra.github.io/kratiagarwal.github.io/)
 
 ## L
@@ -75,7 +79,7 @@
 - []()
 
 ## P
-- []()
+- [Padelis Theodosiou](http://padelis.theodosiou.me/)
 
 ## Q
 - []()
@@ -84,7 +88,7 @@
 - []()
 
 ## S
-- []()
+- [Somesh Mishra](https://someshium.me)
 
 ## T
 - [Tanut Leelaparsert](https://tanut2539.github.io/portfolio)
