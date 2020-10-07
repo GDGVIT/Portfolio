@@ -43,6 +43,7 @@
 
 ## D
 - [Deepak Nahar](http://iamdn7.co)
+- [Devarshi Doshi](https://devarshidoshi.github.io/Portfolio/)
 
 ## E
 - [Ekaansh Arora](https://ekaansharora.github.io)
