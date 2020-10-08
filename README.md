@@ -72,7 +72,7 @@
 - []()
 
 ## M
-- [Muskan Rastogi](https://muskanrastogi1.github.io)
+- [Muskan Rastogi](https://www.rastogi.codes)
 
 ## N
 - [Naynika Wason](https://www.naynikawason.tech)
