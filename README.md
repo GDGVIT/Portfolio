@@ -29,6 +29,8 @@
 ## Contributors
 ## A
 - [Akshat Gupta](https://www.akshatvg.com)
+
+- [Allen Y](https://alleny244.github.io/Portfolio/)
 - [Amogh Lele](https://sphericalkat.dev)
 - [Ananya Ganesh](https://ananyaganesh.tech)
 - [Angad Sharma](https://loadbalancer.tech)
