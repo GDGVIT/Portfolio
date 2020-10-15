@@ -34,6 +34,7 @@
 - [Amogh Lele](https://sphericalkat.dev)
 - [Ananya Ganesh](https://ananyaganesh.tech)
 - [Angad Sharma](https://loadbalancer.tech)
+- [Anmol Pant](https://anmolpant.github.io/)
 - [Anurag Verma](https://whoanuragverma.github.io)
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
 
