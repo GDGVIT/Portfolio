@@ -94,6 +94,7 @@
 
 ## S
 - [Somesh Mishra](https://someshium.me)
+- [Sonu kumar kushwaha](https://blog-minimal.netlify.app/)
 
 ## T
 - [Tanut Leelaparsert](https://tanut2539.github.io/portfolio)
