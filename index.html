@@ -1,111 +1,299 @@
-<!DOCTYPE html>
-<html>
-
-<head>
-
-    <!-- Title of the webpage -->
-    <title>Portfolios || Developer Student Club VIT</title>
-
-    <!-- Favicon linking -->
-    <link rel="apple-touch-icon" sizes="180x180" href="icons/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="icons/favicons/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="icons/favicons/favicon-16x16.png">
-    <link rel="manifest" href="icons/favicons/site.webmanifest">
-
-    <!-- Links to css CDNss -->
-    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Barlow:100,200,500" rel="stylesheet">
-
-    <!-- Links to css files -->
-    <link rel="stylesheet" href="css/notification.css">
-    <link rel="stylesheet" href="css/portfolios.css">
-    <link rel="stylesheet" href="css/svg.css">
-
-    <!-- Meta tags for SEO and Responsiveness -->
-    <meta charset="UTF-8">
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description"
-        content="Open Source portfolio showcase website by Developer Student Club VIT Vellore for BuildYou.com as well as Hacktoberfest 2020.">
-    <meta name="keywords"
-        content="DSC VIT, VIT, Portfolio, Hacktoberfest, Resume, Open Source, Contribution, Pull Request, BuildYou.com">
-    <meta name="author" content="Akshat Gupta">
-    <meta name="copyright" content="DSC VIT">
-    <meta name="language" content="en">
-    <meta name="url" content="https://portfolio.dscvit.com">
-    <meta name="category" content="Portfolio, Resume">
-    <meta name="coverage" content="Worldwide">
-    <meta name="rating" content="General">
-    <meta name="og:email" content="dscvitvellore@gmail.com" />
-    <meta name="og:phone_number" content="+919600093179" />
-    <meta name="og:country-name" content="India, USA" />
-    <meta name="og:region" content="Tamil Nadu, California, Delhi, Gurgaon, Mumbai, Kolkatta, Bangalore, Bengaluru" />
-    <meta name="og:site_name" content="Portfolios" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta property="og:type" content="website">
-    <meta property="og:title" content="Portfolios">
-    <meta name="theme-color" content="#ffffff">
-    <meta property="og:image" itemprop="image" content="icons/favicons/favicon-32x32.png">
-    <meta property="og:description"
-        content="Open Source portfolio showcase website by Developer Student Club VIT Vellore for BuildYou.com as well as Hacktoberfest 2020.">
-    <meta property="og:url" content="https://portfolio.dscvit.com">
-    <meta property="og:site_name" content="Portfolios">
-    <meta name="twitter:card" content="website">
-    <meta name="twitter:site" content="Portfolios">
-    <meta name="twitter:title" content="Portfolios">
-    <meta name="twitter:description"
-        content="Open Source portfolio showcase website by Developer Student Club VIT Vellore for BuildYou.com as well as Hacktoberfest 2020.">
-    <meta name="twitter:creator" content="@akshatvg">
-    <meta itemprop="name" content="Portfolios">
-    <meta itemprop="description"
-        content="Open Source portfolio showcase website by Developer Student Club VIT Vellore for BuildYou.com as well as Hacktoberfest 2020.">
+     <script src="main.js"></script>
+      
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+      
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 
-    <link rel="canonical" href="https://portfolio.dscvit.com">
+    <title>Anshumaan Singh</title>
+     <link rel = "icon" href="City-Police-Badge-icon.png"
+        type = "image/x-icon"> 
 
-</head>
+      <style>
+          .panel {
+  border: 1px solid ;
+border-color: darkslategrey;
+  border-radius:0;
+  transition: box-shadow 0.5s;
+}
 
-<body onload="loadSites()">
+.panel:hover {
+  box-shadow: 5px 0px 40px rgba(0,0,0, .2);
+}
 
-    <!-- Navbar -->
-    <div class="navbar">
-        <a href="./">
-            <div class="navbar-dsc-logo2">
-                <img src="images/logo.png" alt="DSC VIT" class="logo" height="50px" width="auto">
-            </div>
-        </a>
+.panel-footer .btn:hover {
+  border: 1px solid #f4511e;
+  background-color: #fff !important;
+  color: #f4511e;
+}
+
+.panel-heading {
+  color: #fff !important;
+  background-color:black!important;
+  padding: 25px;
+  border-bottom: 1px solid transparent;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+  border-bottom-right-radius: 0px;
+
+}
+
+.panel-footer {
+  background-color: #fff !important;
+}
+
+.panel-footer h3 {
+  font-size: 32px;
+}
+
+.panel-footer h4 {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.panel-footer .btn {
+  margin: 15px 0;
+  background-color: #f4511e;
+  color: #fff;
+}
+          
+          body, html {
+  height: 95.65%;
+  margin: 0;
+}
+      .bg {
+  /* The image used */
+  background-image:url(sniper-rifle-soldier-desert-barrett-50-cal-wallpaper.jpg);
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+          .centre{
+              text-align: center;
+          }
+          .pad{
+              padding: 50px;
+          }
+          .underline{
+              border-style:groove;
+              box-shadow:
+          }
+          .back{
+              background-color:gainsboro;
+              
+          }
+          
+          .margin{
+              margin-top: 20px;
+          }
+          .pad2{
+              padding-top:50px;;
+          }
+          footer {
+  background-color:#2f2f2f;
+  padding: 10px 0;
+  text-align: center;
+  
+      ;
+}
+footer a {
+  color: #70726F;
+  font-size: 20px;
+  padding: 10px;
+ 
+  transition: all .5s ease;
+}
+
+footer a:hover {
+  color: white;
+}
+        
+      </style>
+   
+  </head>
+  <body data-spy="scroll" data-target=".navbar" data-offset="50">
+      
+    
+    <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+         <a class="navbar-brand" href="#">ANSHUMAAN</a>
+  <ul class="navbar-nav">
+      
+    <li class="nav-item active">
+      <a class="nav-link" href="#Home">HOME</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#About">ABOUT</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#Experience">EXPERIENCES</a>
+    </li>
+      <li class="nav-item">
+      <a class="nav-link" href="#Education">EDUCATION</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="#Skills">SKILLS</a>
+    </li>
+      <li class="nav-item">
+      <a class="nav-link" href="#Skills">PROJECTS</a>
+    </li>
+      
+      
+      <li class="nav-item">
+      <a class="nav-link" href="MY%20RESUME(18BCE2193).pdf" download="AnshumaanSingh(18BCE2193)Resume" target="_blank">RESUME</a>
+    </li>
+      <li class="nav-item">
+      <a class="nav-link" href="#contact">CONTACT</a>
+    </li>
+      
+      <li class="nav-item">
+      <a class="nav-link disabled" href="#">Scroll Down to know more</a>
+    </li>
+      
+      
+  </ul>
+</nav>
+      <div class="bg" id="Home">
+      <h1 class="centre pad2" style="color:dimgray"> "One Who Dares Wins."</h1>
+     
+<h1 class="centre" style="color:dimgray">I am a 
+    
+  <span style="color: darkorange"  
+     class="txt-rotate"
+     data-period="2000"
+     data-rotate='[ "Leader.", "Team Player.", "Developer.", "Technology Enthusiast."]'></span>
+</h1>
+      
+      </div>
+      
+      <div class="container pad" id="About">
+  <div class="row">
+    <div class="col-sm-4">
+<img src="IMG_9087.JPG" class="img-thumbnail" alt="Cinque Terre" width="55%" height="auto">     
+      </div>
+    <div class="col-sm-8">
+      <h1>About Me</h1>
+      <h4>I am a hard working and a hopeful chap who believes in making things happen rather then waiting for them to do so. I believe in the saying that,"If not me then who and if not now then when." I surge forward in this everchanging and progressing world with these lines continuously flowing in my mind and determination in heart to be a part of this positive change and to bring one as well.</h4>      
+        
     </div>
-
-    <div id="main">
-        <!-- Actual Content -->
-        <div class="container-main holded-container container-main-last" id="our-portfolios-scroll">
-            <h1 class="barlow-medium text-center" style="overflow: hidden">
-                Portfolios
-            </h1>
-            <p class="barlow-extralight text-center extra-break" style="overflow: hidden">
-                Click on the preview to visit links
-            </p>
-            <!-- Links -->
-            <div class="links" id="links">
-            </div>
-        </div>
-
-        <!-- Footer -->
-        <div class="footer container-main container-main-last">
-            <div class="barlow-medium text-center">
-                <a href="https://github.com/GDGVIT/Portfolio" class="text-dec">Add your portfolio here</a>
-            </div>
-        </div>
+  </div>
+</div>
+    
+      <div class="back" id="Experience">
+       <div class="container pad">
+  <div class="row">
+    <div class="col-sm-8">
+        <h1>Experience</h1>
+        <h4>I have been an active member of one of the best technical chapters of my college where I worked as a Developer, Manager, Content Writer, Organiser, Strategic Advisor, Researcher and many more. I also worked in the organising committee of my college where I managed the college resouces to conduct the fest and led the team of juniors.</h4>
+      
+     </div>
+      <div class="col-sm-4">
+        <img src= "Bar-Chart-icon.png" width="200" height="200">
+      
+      
     </div>
+      
+           </div>
+          </div>
+      </div>
+        
 
-    <!-- Links to JS files and JS CDNs -->
-    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-    <script src="./js/jq.js"></script>
-    <script async src="https://guteurls.de/guteurls.js" selector=".image"></script>
-    <script src="./js/portfolios.js"></script>
-    <script src="./js/ajax.js"></script>
-    <script>
-        AOS.init();
-    </script>
+    
+      <div id="Education">
+       <div class="container pad">
+  <div class="row">
+      <div class="col-sm-4">
+        <img src="Science-University-icon%20(3).png " width="200" height="200">
+      
+      
+    </div>
+    <div class="col-sm-8">
+        <h1>Education</h1>
+        <p><strong>2018-TILL DATE : B.TECH IN COMPUTER SCIENCE ENGINEERING AT VELLORE INSTITUTE OF TECHNOLOGY, VELLORE</strong> </p>
+        <p><strong>2016-2018 : ISC EXAM AT CITY MONTESSRI SCHOOL, GOMTI NAGAR, LUCNOW</strong> </p>
+        <p><strong>2014-2016 : ICSE EXAM AT LA MARTINIERE COLLEGE , LUCKNOW</strong> </p>
+      
+     </div>
+    
+  </div>
+</div>
+          </div>
+      <div class="back">
+      
+      <div class="container pad" id="Skills">
+  <div class="text-center">
+    <h1><strong>Tech Stack</strong></h1>
+    <h4></h4>
+  </div>
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h1>Skills</h1>
+        </div>
+        <div class="panel-body pad">
+          <p><strong>Web Development</strong> </p>
+          <p><strong>Android Development</strong> </p>
+          <p><strong>Internet of Things</strong> </p>
+          <p><strong>Natural Language Processing</strong> </p>
+          <p><strong>Management</strong> </p>
+            <p><strong>Leadership</strong> </p>
+        </div>
+        
+      </div>
+    </div>
+      
+    
+   <div class="col-sm-6">
+      <div class="panel panel-default text-center">
+        <div class="panel-heading">
+          <h1>Projects</h1>
+        </div>
+        <div class="panel-body pad">
+          <p><strong>CodeChef-VIT website</strong> </p>
+          <p><strong>Weather Forecast Application</strong> </p>
+          <p><strong>Speech Recognition Model</strong> </p>
+          <p><strong>Portfolio Website</strong> </p>
+          <p><strong>Autonomous Street Lighting Solution</strong> </p>
+            <p><strong>Corona Tracker</strong> </p>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+</div>
+          </div>
+      
+      
+          
+      
+      <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css" rel="stylesheet"/>
+<footer id="contact">
+  <a href="https://www.facebook.com/anshumaan.singh.37454" target="_blank"><i class="fa fa-facebook"></i></a>
+  <a href="https://twitter.com/23_Anshumaan"><i class="fa fa-twitter" target="_blank"></i></a>
+  <a href="https://www.linkedin.com/in/anshumaan-singh-a496b1179/" target="_blank"><i class="fa fa-linkedin"></i></a>
+  <a href="https://github.com/AnshumaanSingh1999" target="_blank"><i class="fa fa-github" target="_blank"></i></a>
+    <a href="https://www.instagram.com/anshumaan.singh1999/" target="_blank"><i class="fa fa-instagram"></i></a>
+  <a href="mailto:anshumaan.singh2018@vitstudent.ac.in" target="_blank"><i class="fa fa-envelope"></i></a>
+</footer>
 
-</body>
-
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+  </body>
 </html>
