@@ -59,7 +59,7 @@
 - [Gaurav Saha](https://gauravsaha-97.github.io/)
 
 ## H
-- []()
+- [Md Hishaam Akhtar](https://mdhishaamakhtar.netlify.app/)
 
 ## I
 - []()
