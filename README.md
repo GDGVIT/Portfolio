@@ -56,6 +56,7 @@
 - []()
 
 ## G
+- [Gabriel Marinho](https://marincor-portfolio.vercel.app/)
 - [Gaurav Saha](https://gauravsaha-97.github.io/)
 
 ## H
