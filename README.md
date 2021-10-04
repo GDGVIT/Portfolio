@@ -90,7 +90,7 @@
 - []()
 
 ## R
-- []()
+- [Rahul](https://itsrahulhere.github.io/portfolio/)
 
 ## S
 - [Somesh Mishra](https://someshium.me)
