@@ -1,8 +1,15 @@
-[{
+[
+    {
+        "name":"Yajat Malhotra",
+        "link":"https://iamyajat.co",
+        "image":"https://avatars.githubusercontent.com/u/68477362"
+    },
+    {
         "name": "Purushottam Sharma",
         "link": "http://pm-sharma.github.io/",
         "image": "https://avatars1.githubusercontent.com/u/41280402?v=4?height=180&width=180"
-    },{
+    },
+    {
         "name": "Akshat Gupta",
         "link": "https://www.akshatvg.com",
         "image": "https://i.ibb.co/hVLq2ny/akshatvg.png"
@@ -139,5 +146,15 @@
         "name":"Siddhartha Varma",
         "link":"https://sidv.dev",
         "image":"https://user-images.githubusercontent.com/39856034/135902913-42d425cf-d900-44e4-944d-81d9abe1234c.png"
+    },
+    {
+        "name":"Franks",
+        "link":"https://franks.io",
+        "image":"https://ibb.co/rmcWCrS"
+    },
+    {
+        "name":"Vishesh Bansal",
+        "link":"https://visheshbansal.ml",
+        "image":"https://i.ibb.co/TrbgzSn/image.png"
     }
 ]

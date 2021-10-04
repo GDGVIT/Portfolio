@@ -53,7 +53,7 @@
 - [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
-- []()
+- [Franks](https://franks.io)
 
 ## G
 - [Gabriel Marinho](https://marincor-portfolio.vercel.app/)
@@ -105,7 +105,7 @@
 - []()
 
 ## V
-- []()
+- [Vishesh Bansal](https://visheshbansal.ml)
 
 ## W
 - []()
@@ -114,7 +114,7 @@
 - []()
 
 ## Y
-- []()
+- [Yajat Malhotra](https://iamyajat.co/)
 
 ## Z
 - []()
