@@ -86,6 +86,7 @@
 
 ## P
 - [Padelis Theodosiou](http://padelis.theodosiou.me/)
+- [Paarth Jain](https://paarth2608.github.io/portfolio_website/)
 
 ## Q
 - []()
