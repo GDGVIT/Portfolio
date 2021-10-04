@@ -81,6 +81,7 @@
 ## N
 - [Naynika Wason](https://www.naynikawason.tech)
 - [Nirmit Jatana](https://nirmitjatana.github.io/portfolio-v1/)
+- [Nitin Ravi](https://nitinravi.github.io)
 ## O
 - []()
 
