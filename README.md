@@ -113,7 +113,7 @@
 - []()
 
 ## Y
-- []()
+- [Yajat Malhotra](https://iamyajat.co/)
 
 ## Z
 - []()
