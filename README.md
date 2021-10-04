@@ -53,7 +53,7 @@
 - [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
-- []()
+- [Franks](https://franks.io)
 
 ## G
 - [Gabriel Marinho](https://marincor-portfolio.vercel.app/)
