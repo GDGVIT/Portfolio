@@ -73,7 +73,7 @@
 - [Krati Agarwal](https://agarkra.github.io/kratiagarwal.github.io/)
 
 ## L
-- []()
+- [Likhit Ajeesh](https://likkiii.github.io/)
 
 ## M
 - [Muskan Rastogi](https://www.rastogi.codes)
