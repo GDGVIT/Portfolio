@@ -71,7 +71,8 @@
     },
     {
         "name": "Padelis Theodosiou",
-        "link": "http://padelis.theodosiou.me/"
+        "link": "http://padelis.theodosiou.me/",
+        "image":"https://i.ibb.co/Qf7m9Zp/image.png"
     },
     {
         "name": "Angad Sharma",
@@ -149,6 +150,6 @@
     {
         "name":"Nitin Ravi",
         "link":"https://nitinravi.github.io",
-        "image":"https://ibb.co/2crd7nv"
+        "image":"https://i.ibb.co/kqTXgH4/image.png"
     }
 ]
