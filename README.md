@@ -53,7 +53,7 @@
 - [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
-- []()
+- [Franks](https://franks.io)
 
 ## G
 - [Gabriel Marinho](https://marincor-portfolio.vercel.app/)
@@ -73,7 +73,7 @@
 - [Krati Agarwal](https://agarkra.github.io/kratiagarwal.github.io/)
 
 ## L
-- []()
+- [Likhit Ajeesh](https://likkiii.github.io/)
 
 ## M
 - [Muskan Rastogi](https://www.rastogi.codes)
@@ -87,6 +87,7 @@
 
 ## P
 - [Padelis Theodosiou](http://padelis.theodosiou.me/)
+- [Paarth Jain](https://paarth2608.github.io/portfolio_website/)
 
 ## Q
 - []()
@@ -97,6 +98,7 @@
 ## S
 - [Somesh Mishra](https://someshium.me)
 - [Sonu kumar kushwaha](https://blog-minimal.netlify.app/)
+- [Siddhartha Varma](https://sidv.dev)
 
 ## T
 - [Tanut Leelaparsert](https://tanut2539.github.io/portfolio)

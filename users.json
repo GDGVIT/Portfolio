@@ -15,6 +15,11 @@
         "image": "https://i.ibb.co/hVLq2ny/akshatvg.png"
     },
     {
+        "name": "Paarth Jain",
+        "link": "https://paarth2608.github.io/portfolio_website/",
+        "image": "https://ibb.co/8mfLZ4C"
+    },
+    {
         "name": "Amogh Lele",
         "link": "https://sphericalkat.dev",
         "image": "https://i.ibb.co/NKBt1NR/amogh.png"
@@ -143,6 +148,16 @@
         "image":"https://i.ibb.co/Tqc3WRR/websitesnip.png"
     },
     {
+        "name":"Siddhartha Varma",
+        "link":"https://sidv.dev",
+        "image":"https://user-images.githubusercontent.com/39856034/135902913-42d425cf-d900-44e4-944d-81d9abe1234c.png"
+    },
+    {
+        "name":"Franks",
+        "link":"https://franks.io",
+        "image":"https://ibb.co/rmcWCrS"
+    },
+    {
         "name":"Vishesh Bansal",
         "link":"https://visheshbansal.ml",
         "image":"https://i.ibb.co/TrbgzSn/image.png"
@@ -151,5 +166,10 @@
         "name":"Nitin Ravi",
         "link":"https://nitinravi.github.io",
         "image":"https://i.ibb.co/kqTXgH4/image.png"
+    },
+    {
+        "name":"Likhit Ajeesh",
+        "link":"https://likkiii.github.io/",
+        "image":"https://i.ibb.co/TLSKm2q/Portfolio.png"
     }
 ]
