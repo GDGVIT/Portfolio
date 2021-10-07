@@ -7,27 +7,31 @@
 </p>
 
 ---
+
 [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=flat-square&logo=appveyor)](https://portfolio.dscvit.com)
 [![Join Us](https://img.shields.io/badge/Join%20Us-Developer%20Student%20Clubs-red)](https://dsc.community.dev/vellore-institute-of-technology/)
 
-
 ## Functionalities
-- [x]  Responsive
-- [x]  Automatic update when merging PR.
+
+- [x] Responsive
+- [x] Automatic update when merging PR.
 
 ## Instructions to add your portfolio
+
 1. Open README.md and add your name and portfolio link in the alphabetical order.
 2. Create an account on [imgbb.com](https://imgbb.com/) and generate a link for your website's preview image (you can use any other hosting for the image too).
 3. Open [users.json](./users.json) and add your name, portfolio link and preview image link at the bottom.
 
 ---
 
-**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z) 
+**Jump to:** [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [V](#v) | [W](#w) | [Y](#y) | [Z](#z)
 
 ---
 
 ## Contributors
+
 ## A
+
 - [Akshat Gupta](https://www.akshatvg.com)
 
 - [Allen Y](https://alleny244.github.io/Portfolio/)
@@ -39,89 +43,115 @@
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
 
 ## B
+
 - []()
 
 ## C
+
 - [Calum Dingwall](https://calum.gq)
 - []()
 
 ## D
+
 - [Deepak Nahar](http://iamdn7.co)
 - [Devarshi Doshi](https://devarshidoshi.github.io/Portfolio/)
 
 ## E
+
 - [Ekaansh Arora](https://ekaansharora.github.io)
 
 ## F
+
 - [Franks](https://franks.io)
 
 ## G
+
 - [Gabriel Marinho](https://marincor-portfolio.vercel.app/)
 - [Gaurav Saha](https://gauravsaha-97.github.io/)
 
 ## H
+
 - [Md Hishaam Akhtar](https://mdhishaamakhtar.netlify.app/)
 
 ## I
+
 - []()
 
 ## J
+
 - []()
 
 ## K
+
 - [Kamlesh Patil](https://neon-k9.netlify.app/)
 - [Krati Agarwal](https://agarkra.github.io/kratiagarwal.github.io/)
+- [Khushi Saini](https://pensive-boyd-4da6b9.netlify.app/)
 
 ## L
+
 - [Likhit Ajeesh](https://likkiii.github.io/)
 
 ## M
+
 - [Muskan Rastogi](https://www.rastogi.codes)
 
 ## N
+
 - [Naynika Wason](https://www.naynikawason.tech)
 - [Nirmit Jatana](https://nirmitjatana.github.io/portfolio-v1/)
+
 ## O
+
 - []()
 
 ## P
+
 - [Padelis Theodosiou](http://padelis.theodosiou.me/)
 - [Paarth Jain](https://paarth2608.github.io/portfolio_website/)
 - [Prasoon Soni](https://prasoonsoni.tech/)
 
 ## Q
+
 - []()
 
 ## R
+
 - [Rahul](https://itsrahulhere.github.io/portfolio/)
 
 ## S
+
 - [Somesh Mishra](https://someshium.me)
 - [Sonu kumar kushwaha](https://blog-minimal.netlify.app/)
 - [Siddhartha Varma](https://sidv.dev)
 
 ## T
+
 - [Tanut Leelaparsert](https://tanut2539.github.io/portfolio)
 
 ## U
+
 - []()
 
 ## V
+
 - [Vishesh Bansal](https://visheshbansal.ml)
 
 ## W
+
 - []()
 
 ## X
+
 - []()
 
 ## Y
+
 - [Yajat Malhotra](https://iamyajat.co/)
 
 ## Z
+
 - []()
 
 <p align="center">
 	Made with :heart: by <a href="https://dscvit.com">DSC VIT</a>
 </p>
-
