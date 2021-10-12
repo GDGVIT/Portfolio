@@ -58,6 +58,7 @@
 ## G
 - [Gabriel Marinho](https://marincor-portfolio.vercel.app/)
 - [Gaurav Saha](https://gauravsaha-97.github.io/)
+- [Gavin Pereira](https://gavinpereira.in)
 
 ## H
 - [Md Hishaam Akhtar](https://mdhishaamakhtar.netlify.app/)

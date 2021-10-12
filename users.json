@@ -178,8 +178,13 @@
         "image":"https://i.ibb.co/BcyMs7W/Capture.png"
     },
     {
-      "name":"Rishabh Jain",
+        "name":"Rishabh Jain",
         "link":"https://know-about-rishabh-f6db2.web.app/",
         "image":"https://www.linkpicture.com/q/Screenshot-373.png"   
+    },
+    {
+        "name":"Gavin Pereira",
+        "link":"https://gavinpereira.in",
+        "image":"https://gavinpereira.in/img/preview.jpg"   
     }
 ]
