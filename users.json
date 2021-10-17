@@ -1,185 +1,187 @@
 [
-    {
-        "name":"Yajat Malhotra",
-        "link":"https://iamyajat.co",
-        "image":"https://avatars.githubusercontent.com/u/68477362"
-    },
-    {
-        "name": "Purushottam Sharma",
-        "link": "http://pm-sharma.github.io/",
-        "image": "https://avatars1.githubusercontent.com/u/41280402?v=4?height=180&width=180"
-    },
-    {
-        "name": "Akshat Gupta",
-        "link": "https://www.akshatvg.com",
-        "image": "https://i.ibb.co/hVLq2ny/akshatvg.png"
-    },
-    {
-        "name": "Paarth Jain",
-        "link": "https://paarth2608.github.io/portfolio_website/",
-        "image": "https://ibb.co/8mfLZ4C"
-    },
-    {
-        "name": "Amogh Lele",
-        "link": "https://sphericalkat.dev",
-        "image": "https://i.ibb.co/NKBt1NR/amogh.png"
-    },
-    {
-        "name": "Gabriel Claudino Marinho",
-        "link": "https://marincor-portfolio.vercel.app/",
-        "image": "https://i.ibb.co/Jn3XfN2/marincor.png"
-    },
-    {
-        "name": "Nirmit Jatana",
-        "link": "https://nirmitjatana.github.io/portfolio-v1/",
-        "image": "https://i.ibb.co/zbzHjYn/ss.png"
-    },
-     {
-        "name": "Rahul",
-        "link": "https://itsrahulhere.github.io/portfolio/",
-        "image": "https://ibb.co/fFqdRZ6"
-    },
-    {
-        "name": "Ashutosh Kaushik",
-        "link": "https://ashdarkfold.github.io",
-        "image": "https://i.ibb.co/tbsBY1G/ashutosh.png"
-    },
-    {
-        "name": "Ekaansh Arora",
-        "link": "https://ekaansharora.github.io/",
-        "image": "https://i.ibb.co/tBMF3h7/Capture.jpg"
-    },
-    {
-        "name": "Deepak Nahar",
-        "link": "http://iamdn7.co/",
-        "image": "https://i.ibb.co/Bsw9k6n/image.png"
-    },
-    {
-        "name": "Devarshi Doshi",
-        "link": "https://devarshidoshi.github.io/Portfolio/",
-        "image": "https://i.ibb.co/brqCHp5/image.png"
-    },
-    {
-        "name": "Muskan Rastogi",
-        "link": "https://www.rastogi.codes",
-        "image": "https://i.ibb.co/SyX7Sp1/muskan.png"
-    },
-    {
-        "name": "Naynika Wason",
-        "image": "https://i.ibb.co/ZMCbWRW/naynika.png",
-        "link": "https://www.naynikawason.tech"
-    },
-    {
-        "name": "Allen Y",
-        "link": "https://alleny244.github.io/Portfolio/",
-        "image": "https://i.ibb.co/0tQ9NqQ/screencapture-alleny244-github-io-Portfolio-2020-10-11-10-22-43.png"
-    },
-    {
-        "name": "Padelis Theodosiou",
-        "link": "http://padelis.theodosiou.me/",
-        "image":"https://i.ibb.co/Qf7m9Zp/image.png"
-    },
-    {
-        "name": "Angad Sharma",
-        "link": "https://loadbalancer.tech",
-        "image": "https://i.ibb.co/vJfZ9Jj/angad.png"
-    },
-    {
-        "name": "Tanut Leelaparsert",
-        "link": "https://tanut2539.github.io/portfolio",
-        "image": "https://i.ibb.co/RTh56dk/tanut.png"
-    },
-
-    {
-        "name": "Gaurav Saha",
-        "link": "https://gauravsaha-97.github.io/",
-        "image": "https://i.ibb.co/94zDPbL/gaurav-portfolio.png"
-
-    },
-    {
-
-        "name": "Somesh Mishra",
-        "link": "https://someshium.me",
-        "image": "https://i.ibb.co/KrRY2T2/s2.png"
-    },
-    {
-        "name": "Sonu kumar kushwaha",
-        "link": "https://blog-minimal.netlify.app/",
-        "image": "https://i.ibb.co/6RCWgsr/Screenshot-2020-10-24-Sonu-kumar-kushwaha.png"
-    },
-    {
-        "name": "Kamlesh Patil",
-        "link": "https://neon-k9.github.io/",
-        "image": "https://i.ibb.co/vxCCMQ0/Screenshot-2020-10-01-Kamlesh-Patil-PORTFOLIO.png"
-    },
-    {
-        "name": "Ananya Ganesh",
-        "link": "https://ananyaganesh.tech",
-        "image": "https://i.ibb.co/n1yV4ky/ananya.png"
-    },
-    {
-        "name": "Gurnehmat Kaur Dhindsa",
-        "link": "https://gurnehmat.netlify.app/",
-        "image": "https://i.ibb.co/fxNnzHL/screencapture-127-0-0-1-5501-2020-10-01-23-26-22.png"
-    },
-    {
-        "name":"Anurag Verma",
-        "link":"https://whoanuragverma.github.io/",
-        "image":"https://user-images.githubusercontent.com/55322425/94922153-4fe7c080-04d7-11eb-8c8f-3a7fe3d2b073.png"
-    },
-    {
-        "name": "Krati Agarwal",
-        "link": "https://agarkra.github.io/kratiagarwal.github.io/",
-        "image": "https://i.ibb.co/RP1fVV1/krati.png"
-    },
-    {
-        "name":"Calum Dingwall",
-        "link":"https://calum.gq/",
-        "image":"https://i.ibb.co/qmzmWq0/calum-gq.png"
-    },
-    {
-        "name":"Anmol Pant",
-        "link":"https://anmolpant.github.io/",
-        "image":"https://i.ibb.co/RHHzY5K/website-snip.png"
-    },
-    {
-        "name":"Md Hishaam Akhtar",
-        "link":"https://mdhishaamakhtar.netlfiy.app",
-        "image":"https://i.ibb.co/Tqc3WRR/websitesnip.png"
-    },
-    {
-        "name":"Siddhartha Varma",
-        "link":"https://sidv.dev",
-        "image":"https://user-images.githubusercontent.com/39856034/135902913-42d425cf-d900-44e4-944d-81d9abe1234c.png"
-    },
-    {
-        "name":"Franks",
-        "link":"https://franks.io",
-        "image":"https://ibb.co/rmcWCrS"
-    },
-    {
-        "name":"Vishesh Bansal",
-        "link":"https://visheshbansal.ml",
-        "image":"https://i.ibb.co/TrbgzSn/image.png"
-    },
-    {
-        "name":"Nitin Ravi",
-        "link":"https://nitinravi.github.io",
-        "image":"https://i.ibb.co/kqTXgH4/image.png"
-    },
-    {
-        "name":"Likhit Ajeesh",
-        "link":"https://likkiii.github.io/",
-        "image":"https://i.ibb.co/TLSKm2q/Portfolio.png"
-    },
-    {
-        "name":"Prasoon Soni",
-        "link":"https://prasoonsoni.tech/",
-        "image":"https://i.ibb.co/BcyMs7W/Capture.png"
-    },
-    {
-      "name":"Rishabh Jain",
-        "link":"https://know-about-rishabh-f6db2.web.app/",
-        "image":"https://www.linkpicture.com/q/Screenshot-373.png"   
-    }
+	{
+		"name":"Yajat Malhotra",
+		"link":"https://iamyajat.co",
+		"image":"https://avatars.githubusercontent.com/u/68477362"
+	},
+	{
+		"name":"Purushottam Sharma",
+		"link":"http://pm-sharma.github.io/",
+		"image":"https://avatars1.githubusercontent.com/u/41280402?v=4?height=180&width=180"
+	},
+	{
+		"name":"Akshat Gupta",
+		"link":"https://www.akshatvg.com",
+		"image":"https://i.ibb.co/hVLq2ny/akshatvg.png"
+	},
+	{
+		"name":"Paarth Jain",
+		"link":"https://paarth2608.github.io/portfolio_website/",
+		"image":"https://ibb.co/8mfLZ4C"
+	},
+	{
+		"name":"Amogh Lele",
+		"link":"https://sphericalkat.dev",
+		"image":"https://i.ibb.co/NKBt1NR/amogh.png"
+	},
+	{
+		"name":"Gabriel Claudino Marinho",
+		"link":"https://marincor-portfolio.vercel.app/",
+		"image":"https://i.ibb.co/Jn3XfN2/marincor.png"
+	},
+	{
+		"name":"Nirmit Jatana",
+		"link":"https://nirmitjatana.github.io/portfolio-v1/",
+		"image":"https://i.ibb.co/zbzHjYn/ss.png"
+	},
+	{
+		"name":"Rahul",
+		"link":"https://itsrahulhere.github.io/portfolio/",
+		"image":"https://ibb.co/fFqdRZ6"
+	},
+	{
+		"name":"Ashutosh Kaushik",
+		"link":"https://ashdarkfold.github.io",
+		"image":"https://i.ibb.co/tbsBY1G/ashutosh.png"
+	},
+	{
+		"name":"Ekaansh Arora",
+		"link":"https://ekaansharora.github.io/",
+		"image":"https://i.ibb.co/tBMF3h7/Capture.jpg"
+	},
+	{
+		"name":"Deepak Nahar",
+		"link":"http://iamdn7.co/",
+		"image":"https://i.ibb.co/Bsw9k6n/image.png"
+	},
+	{
+		"name":"Devarshi Doshi",
+		"link":"https://devarshidoshi.github.io/Portfolio/",
+		"image":"https://i.ibb.co/brqCHp5/image.png"
+	},
+	{
+		"name":"Muskan Rastogi",
+		"link":"https://www.rastogi.codes",
+		"image":"https://i.ibb.co/SyX7Sp1/muskan.png"
+	},
+	{
+		"name":"Naynika Wason",
+		"image":"https://i.ibb.co/ZMCbWRW/naynika.png",
+		"link":"https://www.naynikawason.tech"
+	},
+	{
+		"name":"Allen Y",
+		"link":"https://alleny244.github.io/Portfolio/",
+		"image":"https://i.ibb.co/0tQ9NqQ/screencapture-alleny244-github-io-Portfolio-2020-10-11-10-22-43.png"
+	},
+	{
+		"name":"Padelis Theodosiou",
+		"link":"http://padelis.theodosiou.me/",
+		"image":"https://i.ibb.co/Qf7m9Zp/image.png"
+	},
+	{
+		"name":"Angad Sharma",
+		"link":"https://loadbalancer.tech",
+		"image":"https://i.ibb.co/vJfZ9Jj/angad.png"
+	},
+	{
+		"name":"Tanut Leelaparsert",
+		"link":"https://tanut2539.github.io/portfolio",
+		"image":"https://i.ibb.co/RTh56dk/tanut.png"
+	},
+	{
+		"name":"Gaurav Saha",
+		"link":"https://gauravsaha-97.github.io/",
+		"image":"https://i.ibb.co/94zDPbL/gaurav-portfolio.png"
+	},
+	{
+		"name":"Somesh Mishra",
+		"link":"https://someshium.me",
+		"image":"https://i.ibb.co/KrRY2T2/s2.png"
+	},
+	{
+		"name":"Sonu kumar kushwaha",
+		"link":"https://blog-minimal.netlify.app/",
+		"image":"https://i.ibb.co/6RCWgsr/Screenshot-2020-10-24-Sonu-kumar-kushwaha.png"
+	},
+	{
+		"name":"Kamlesh Patil",
+		"link":"https://neon-k9.github.io/",
+		"image":"https://i.ibb.co/vxCCMQ0/Screenshot-2020-10-01-Kamlesh-Patil-PORTFOLIO.png"
+	},
+	{
+		"name":"Ananya Ganesh",
+		"link":"https://ananyaganesh.tech",
+		"image":"https://i.ibb.co/n1yV4ky/ananya.png"
+	},
+	{
+		"name":"Gurnehmat Kaur Dhindsa",
+		"link":"https://gurnehmat.netlify.app/",
+		"image":"https://i.ibb.co/fxNnzHL/screencapture-127-0-0-1-5501-2020-10-01-23-26-22.png"
+	},
+	{
+		"name":"Anurag Verma",
+		"link":"https://whoanuragverma.github.io/",
+		"image":"https://user-images.githubusercontent.com/55322425/94922153-4fe7c080-04d7-11eb-8c8f-3a7fe3d2b073.png"
+	},
+	{
+		"name":"Krati Agarwal",
+		"link":"https://agarkra.github.io/kratiagarwal.github.io/",
+		"image":"https://i.ibb.co/RP1fVV1/krati.png"
+	},
+	{
+		"name":"Calum Dingwall",
+		"link":"https://calum.gq/",
+		"image":"https://i.ibb.co/qmzmWq0/calum-gq.png"
+	},
+	{
+		"name":"Anmol Pant",
+		"link":"https://anmolpant.github.io/",
+		"image":"https://i.ibb.co/RHHzY5K/website-snip.png"
+	},
+	{
+		"name":"Md Hishaam Akhtar",
+		"link":"https://mdhishaamakhtar.netlfiy.app",
+		"image":"https://i.ibb.co/Tqc3WRR/websitesnip.png"
+	},
+	{
+		"name":"Siddhartha Varma",
+		"link":"https://sidv.dev",
+		"image":"https://user-images.githubusercontent.com/39856034/135902913-42d425cf-d900-44e4-944d-81d9abe1234c.png"
+	},
+	{
+		"name":"Franks",
+		"link":"https://franks.io",
+		"image":"https://ibb.co/rmcWCrS"
+	},
+	{
+		"name":"Vishesh Bansal",
+		"link":"https://visheshbansal.ml",
+		"image":"https://i.ibb.co/TrbgzSn/image.png"
+	},
+	{
+		"name":"Nitin Ravi",
+		"link":"https://nitinravi.github.io",
+		"image":"https://i.ibb.co/kqTXgH4/image.png"
+	},
+	{
+		"name":"Likhit Ajeesh",
+		"link":"https://likkiii.github.io/",
+		"image":"https://i.ibb.co/TLSKm2q/Portfolio.png"
+	},
+	{
+		"name":"Prasoon Soni",
+		"link":"https://prasoonsoni.tech/",
+		"image":"https://i.ibb.co/BcyMs7W/Capture.png"
+	},
+	{
+		"name":"Rishabh Jain",
+		"link":"https://know-about-rishabh-f6db2.web.app/",
+		"image":"https://www.linkpicture.com/q/Screenshot-373.png"
+	},
+	{
+		"name":"Gavin Pereira",
+		"link":"https://gavinpereira.in",
+		"image":"https://gavinpereira.in/img/preview.jpg"
+	}
 ]
