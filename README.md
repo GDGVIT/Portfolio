@@ -81,18 +81,21 @@
 ## N
 - [Naynika Wason](https://www.naynikawason.tech)
 - [Nirmit Jatana](https://nirmitjatana.github.io/portfolio-v1/)
+- [Nitin Ravi](https://nitinravi.github.io)
 ## O
 - []()
 
 ## P
 - [Padelis Theodosiou](http://padelis.theodosiou.me/)
 - [Paarth Jain](https://paarth2608.github.io/portfolio_website/)
+- [Prasoon Soni](https://prasoonsoni.tech/)
 
 ## Q
 - []()
 
 ## R
 - [Rahul](https://itsrahulhere.github.io/portfolio/)
+- [Rishabh Jain](https://know-about-rishabh-f6db2.web.app)
 
 ## S
 - [Somesh Mishra](https://someshium.me)
