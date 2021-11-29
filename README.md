@@ -37,6 +37,7 @@
 - [Anmol Pant](https://anmolpant.github.io/)
 - [Anurag Verma](https://whoanuragverma.github.io)
 - [Ashutosh Kaushik](https://ashdarkfold.github.io)
+- [Avi Avinav](https://aviavinav.github.io/)
 
 ## B
 - []()
