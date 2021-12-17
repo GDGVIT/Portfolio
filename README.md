@@ -96,6 +96,7 @@
 ## R
 - [Rahul](https://itsrahulhere.github.io/portfolio/)
 - [Rishabh Jain](https://know-about-rishabh-f6db2.web.app)
+- [Roshan Kr Soni](https://roshankrsoni.me)
 
 ## S
 - [Somesh Mishra](https://someshium.me)
